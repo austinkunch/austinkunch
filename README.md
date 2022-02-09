@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @austinkunch
-- 👀 I’m interested in Data Science, Computational Biology, Algorithm Design, Machine Learning
+- 👀 I’m interested in Software Eng, Data Science, Computational Biology, Algorithm Design, Machine Learning
 - 🌱 I’m currently learning Intro SWE, Data Science, Computational Biology, Algorithm Design, Machine Learning
 
 <!---
